@@ -1,6 +1,6 @@
 <manifest>
-  <remote fetch="https://source.foundries.io" name="subscriber-microplatforms" />
-  <remote fetch="https://source.foundries.io/lmp-mirrors" name="lmp-mirrors" />
+  <remote fetch="https://github.com/open-nav" name="subscriber-microplatforms" />
+  <remote fetch="https://github.com/open-nav" name="lmp-mirrors" />
   
   <default remote="lmp-mirrors" revision="master" sync-j="4" />
   
